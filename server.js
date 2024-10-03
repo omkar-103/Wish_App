@@ -9,9 +9,9 @@ const port = 3000; // or another port if you prefer
 // MySQL database connection
 const db = mysql.createConnection({
     host: 'sql12.freesqldatabase.com',
-    user: 'sql12728058',
-    password: 'W9eMYEvdJE',
-    database: 'sql12728058',
+    user: 'sql12735050',
+    password: 'G1qrVh4sHj',
+    database: 'sql12735050',
     port: 3306
 });
 
